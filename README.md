@@ -7,9 +7,13 @@
 - ⚡ Fun fact: I love playing the piano and console games.
 
 ## 🧰 Languages and Tools:
-### Languages      ### Tools
-- Python           - Visual Studio - Community and Professional
-- C++              - Pycharm - Community
+### Languages
+- Python           
+- C++
 - C
-
+ 
+ ### Tools
+ - Visual Studio - Community and Professional
+ - - Pycharm - Community
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manab784&show_icons=true&theme=tokyonight)
