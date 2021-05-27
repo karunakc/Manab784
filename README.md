@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love playing the piano and console games.
 
 ## 🧰 Languages :
-### Languages
 - Python           
 - C++
 - C
