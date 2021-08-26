@@ -2,8 +2,8 @@
 
 ## I am a B-Tech Computer Science Student at PES University.
 
-- 🔭 I’m currently working on an AR mobile app.
-- 🌱 I’m currently learning Flutter App Development.
+- 🔭 I’m currently working on a mobile application.
+- 🌱 I’m currently learning Kotlin App Development.
 - ⚡ Fun fact: I love playing the piano and console games.
 
 ## 🧰 Languages :
