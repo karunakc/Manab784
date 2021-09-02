@@ -10,5 +10,6 @@
 - Python           
 - C++
 - C
+- Kotlin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manab784&show_icons=true&theme=tokyonight)
